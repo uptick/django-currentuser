@@ -1,3 +1,6 @@
+# THIS IS A FORK TO SUPPORT Django 4.0
+
+
 =============================
 django-currentuser
 =============================
